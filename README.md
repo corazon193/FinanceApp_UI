@@ -10,4 +10,4 @@
  💻    Pemrograman Mobile 2      
 
 ## Gambar
-![alt text](https://github.com/corazon193/gambar1.png?raw=true)
+![alt text][(https://github.com/corazon193/gambar1.png](https://raw.githubusercontent.com/corazon193/FinanceApp_UI/cf5ac48632ce03128b12c558fdf4c294852fd440/gambar1.png?raw=true)
