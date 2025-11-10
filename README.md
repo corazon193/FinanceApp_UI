@@ -11,3 +11,5 @@
 
 ## Gambar
 ![alt text](https://github.com/corazon193/FinanceAPP_UI/blob/main/gambar1.png?raw=true)
+
+![alt text](https://github.com/corazon193/FinanceAPP_UI/blob/main/gambar2.png?raw=true)
